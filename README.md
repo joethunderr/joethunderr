@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josemeldz
+- 👋 Hi, I’m @joethunderr
 - 👀 I’m interested in Marketing, Gaming and Programming.
 - 🌱 I’m currently learning Python, web design and digital analytics.
 - 💞️ I’m open to collaborate on new projects preferably videogames or any business idea if is interesting. 
